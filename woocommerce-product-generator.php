@@ -565,7 +565,7 @@ class WooCommerce_Product_Generator {
 							$attribute->set_name( $taxonomy_name );
 							$attribute->set_options( $use_attribute_terms );
 							$attribute->set_visible( true );
-							$attribute->set_variation( true );
+							$attribute->set_variation( !!$is_variable );
 							$attributes[] = $attribute;
 
 							$variation_attributes[$taxonomy_name] = $attribute_terms;

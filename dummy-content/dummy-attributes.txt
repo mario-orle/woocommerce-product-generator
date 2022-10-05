@@ -1,2 +1,3 @@
-Color | red, green, blue, black, white, pink, yellow, mint, orange, brown
-Size | XXS,XS,S,M,L,XL,XXL,XXL
+Colour | Red, Green, Blue, Black, White, Yellow, Egg
+Paper Size | A1, A2, A3, A4, A5, A6
+Recycled Paper |  Yes, No, Almost
